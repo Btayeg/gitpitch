@@ -20,7 +20,7 @@
 ---
 <!-- .slide: data-autoslide="2000" -->
 
-### No more <span style="color: #666666">KeynoteBerhan.</span>
+###Introduction <span style="color: #666666">KeynoteBerhan.</span>
 ### <span class="fragment" data-fragment-index="1" data-autoslide="2000">No more <span style="color: #666666">Powerpoint.</span>
 <br>
 ### <span class="fragment" data-fragment-index="2" data-autoslide="3500">Just <span style="color: #e49436">Markdown</span>. Then <span style="color: #e49436">Git-Commit</span>.</li>
